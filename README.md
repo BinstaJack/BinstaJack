@@ -20,14 +20,6 @@ I am **Lebini Jack**, an **IT Support Technician** with 2+ years of experience i
 
 - 🔐 `MediFace Access` — secure biometric access solution *(Pending)*
 - 🗂️ `Survey Management System` — Django app for surveys *(Work in progress)*
-- 🐍 `Python_Data_Structure` — practicing data structures & algorithms
-- 📝 `Python_Quiz` — interactive CLI quiz
-- 🛒 `Shopping_Cart_App` — modular CLI shopping cart logic
-- 🧮 `Calculator_App` — basic calculator tool
-- 📇 `ContactBook-App` — desktop contact manager built with Tkinter
-- 🦸 `Avengers_App` — JavaScript character showcase
-- 🌐 `JS_Test_Web_App` — HTML, CSS, JS frontend demo
-- 🐾 `PineCityZoo-Animal` — themed animal profiles
 
 🔗 **See all repos:** [github.com/binsta-jack](https://github.com/binsta-jack)
 ---
@@ -38,25 +30,15 @@ I am **Lebini Jack**, an **IT Support Technician** with 2+ years of experience i
 - Python 🐍, Java ☕, PHP 🐘, Visual Basic ⚙️, HTML 📰, CSS 🎨, JavaScript ✨, SQL 🗄️, Git & GitHub 🗃️
 
 ### ⚙️ **Specialties**
-- Full Stack Development 🖥️
-- IT Support 🛠️
-- Networking 🌐
-- Troubleshooting 🔍
-- Cybersecurity Principles 🔒
+- Full Stack Development 🖥️ | IT Support 🛠️ | Networking 🌐 | Troubleshooting 🔍 | Cybersecurity Principles 🔒
 
 ### 🤝 **Soft Skills**
-- Communication 🗣️
-- Teamwork 🤝
-- Documentation 🗂️
-- Continuous Learning 📚
-- Problem Solving 💡
+- Communication 🗣️ | Teamwork 🤝 | Documentation 🗂️ | Continuous Learning 📚 | Problem Solving 💡
 ---
 
 ## 🤝 **Let’s Connect**
 
-- [LinkedIn](https://www.linkedin.com/in/lebini-jack)
-- [GitHub](https://github.com/binsta-jack)]
-- ✉️ lebini.jack@gmail.com
+ - [LinkedIn](https://www.linkedin.com/in/lebini-jack) | [GitHub](https://github.com/binsta-jack)] | ✉️ lebini.jack@gmail.com
 
 **Always open to collaboration, mentorship, and opportunities to grow.**  
 *Let’s connect and build something meaningful together! 🚀*
