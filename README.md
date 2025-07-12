@@ -1,12 +1,10 @@
-# 👋 Hi, I’m Lebini Jack
+# 👋 HEllo There 
 
-I’m an **IT Support Technician** with 2+ years of experience in system deployment, user support, and building secure, cloud-based solutions. Certified by **IBM**, **Cisco**, and **AWS**, I love creating practical tools — from facial recognition apps to full-stack prototypes — that help people work smarter and safer.
+I am Lebini Jack, an **IT Support Technician** with 2+ years of experience in system deployment, user support, and building secure, cloud-based solutions. I love creating practical tools — from facial recognition apps to full-stack prototypes — that help people work smarter and safer.
 
 I’m passionate about solving real problems, learning every day, and growing into **Cybersecurity** and **DevSecOps** roles.  
 Let’s connect and build something meaningful together! 🚀
-
 ---
-
 ## 🏆 **Certifications**
 
 - 🎓 Full Stack Development — FNB App Academy (IT Varsity)
@@ -15,9 +13,7 @@ Let’s connect and build something meaningful together! 🚀
 - ☁️ Microsoft Azure Fundamentals
 - ☁️ AWS Fundamentals
 - 🎓 Diploma in Information Technology — Vaal University of Technology
-
 ---
-
 ## 🚀 **Current Projects**
 
 - 🔐 `MediFace Access` — secure biometric access solution *(Pending)*
@@ -32,9 +28,7 @@ Let’s connect and build something meaningful together! 🚀
 - 🐾 `PineCityZoo-Animal` — themed animal profiles
 
 🔗 **See all repos:** [github.com/binsta-jack](https://github.com/binsta-jack)
-
 ---
-
 ## 🧩 **Core Skills**
 
 ### 💻 **Languages & Tools**
@@ -53,17 +47,13 @@ Let’s connect and build something meaningful together! 🚀
 - Documentation 🗂️
 - Continuous Learning 📚
 - Problem Solving 💡
-
 ---
-
 ## 🌍 **About Me**
 
 📍 Alberton, South Africa  
 🎯 Growing into Cybersecurity & DevSecOps  
 💡 Passionate about secure systems, ethical tech, and user-first solutions
-
 ---
-
 ## 🤝 **Let’s Connect**
 
 - [LinkedIn](https://www.linkedin.com/in/lebini-jack)
