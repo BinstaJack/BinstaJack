@@ -1,38 +1,35 @@
-## Hi there 👋
-# My Name is Lebini Jack
+# 👋 Hi, I’m Lebini Jack
 
-**IT Support Technician & Aspiring Cybersecurity Professional**  
-🔧 *Solving Problems | Securing Systems | Building Practical Solutions*
+I’m an **IT Support Technician** with 2+ years of experience in system deployment, user support, and building secure, cloud-based solutions. Certified by **IBM**, **Cisco**, and **AWS**, I love creating practical tools — from facial recognition apps to full-stack prototypes — that help people work smarter and safer.
 
-I share **Python scripts**, **JavaScript demos**, and **hands-on IT projects** that reflect my journey from **IT Support** to **Full Stack Development** to **Cybersecurity**.
-
-✅ **Latest Achievement:** Certificate in Full Stack Development from the **FNB App Academy** (IT Varsity).
+I’m passionate about solving real problems, learning every day, and growing into **Cybersecurity** and **DevSecOps** roles.  
+Let’s connect and build something meaningful together! 🚀
 
 ---
 
 ## 🏆 **Certifications**
 
-- Full Stack Development — FNB App Academy (IT Varsity)
-- Cisco CCNA (Routing & Switching)
-- IBM Cybersecurity Analyst
-- Microsoft Azure Fundamentals
-- AWS Fundamentals
-- Diploma in Information Technology — Vaal University of Technology
+- 🎓 Full Stack Development — FNB App Academy (IT Varsity)
+- 🌐 Cisco CCNA (Routing & Switching)
+- 🔒 IBM Cybersecurity Analyst
+- ☁️ Microsoft Azure Fundamentals
+- ☁️ AWS Fundamentals
+- 🎓 Diploma in Information Technology — Vaal University of Technology
 
 ---
 
 ## 🚀 **Current Projects**
 
-- `MediFace Access` — secure biometric access solution *(Pending)*
-- `Survey Management System` — Django app for surveys *(Work in progress)*
-- `Python_Data_Structure` — practicing data structures & algorithms
-- `Python_Quiz` — interactive CLI quiz
-- `Shopping_Cart_App` — modular CLI shopping cart logic
-- `Calculator_App` — basic calculator tool
-- `ContactBook-App` — desktop contact manager built with Tkinter
-- `Avengers_App` — JavaScript character showcase
-- `JS_Test_Web_App` — HTML, CSS, JS frontend demo
-- `PineCityZoo-Animal` — themed animal profiles
+- 🔐 `MediFace Access` — secure biometric access solution *(Pending)*
+- 🗂️ `Survey Management System` — Django app for surveys *(Work in progress)*
+- 🐍 `Python_Data_Structure` — practicing data structures & algorithms
+- 📝 `Python_Quiz` — interactive CLI quiz
+- 🛒 `Shopping_Cart_App` — modular CLI shopping cart logic
+- 🧮 `Calculator_App` — basic calculator tool
+- 📇 `ContactBook-App` — desktop contact manager built with Tkinter
+- 🦸 `Avengers_App` — JavaScript character showcase
+- 🌐 `JS_Test_Web_App` — HTML, CSS, JS frontend demo
+- 🐾 `PineCityZoo-Animal` — themed animal profiles
 
 🔗 **See all repos:** [github.com/binsta-jack](https://github.com/binsta-jack)
 
@@ -40,9 +37,22 @@ I share **Python scripts**, **JavaScript demos**, and **hands-on IT projects** t
 
 ## 🧩 **Core Skills**
 
-**Languages & Tools:** Python, Java, PHP, Visual Basic, HTML, CSS, JavaScript, SQL, Git & GitHub  
-**Specialties:** Full Stack Development, IT Support, Networking, Troubleshooting, Cybersecurity Principles  
-**Soft Skills:** Communication, Teamwork, Documentation, Continuous Learning, Problem Solving
+### 💻 **Languages & Tools**
+- Python 🐍, Java ☕, PHP 🐘, Visual Basic ⚙️, HTML 📰, CSS 🎨, JavaScript ✨, SQL 🗄️, Git & GitHub 🗃️
+
+### ⚙️ **Specialties**
+- Full Stack Development 🖥️
+- IT Support 🛠️
+- Networking 🌐
+- Troubleshooting 🔍
+- Cybersecurity Principles 🔒
+
+### 🤝 **Soft Skills**
+- Communication 🗣️
+- Teamwork 🤝
+- Documentation 🗂️
+- Continuous Learning 📚
+- Problem Solving 💡
 
 ---
 
