@@ -1,10 +1,14 @@
-# 👋 HEllo There 
+# 👋 Hello There 
+
+## 🌍 **About Me**
 
 I am Lebini Jack, an **IT Support Technician** with 2+ years of experience in system deployment, user support, and building secure, cloud-based solutions. I love creating practical tools — from facial recognition apps to full-stack prototypes — that help people work smarter and safer.
 
 I’m passionate about solving real problems, learning every day, and growing into **Cybersecurity** and **DevSecOps** roles.  
-Let’s connect and build something meaningful together! 🚀
+
+📍 Alberton, South Africa | 🎯 Growing into Cybersecurity & DevSecOps |💡 Passionate about secure systems, ethical tech, and user-first solutions
 ---
+
 ## 🏆 **Certifications**
 
 - 🎓 Full Stack Development — FNB App Academy (IT Varsity)
@@ -14,6 +18,7 @@ Let’s connect and build something meaningful together! 🚀
 - ☁️ AWS Fundamentals
 - 🎓 Diploma in Information Technology — Vaal University of Technology
 ---
+
 ## 🚀 **Current Projects**
 
 - 🔐 `MediFace Access` — secure biometric access solution *(Pending)*
@@ -29,6 +34,7 @@ Let’s connect and build something meaningful together! 🚀
 
 🔗 **See all repos:** [github.com/binsta-jack](https://github.com/binsta-jack)
 ---
+
 ## 🧩 **Core Skills**
 
 ### 💻 **Languages & Tools**
@@ -48,17 +54,12 @@ Let’s connect and build something meaningful together! 🚀
 - Continuous Learning 📚
 - Problem Solving 💡
 ---
-## 🌍 **About Me**
 
-📍 Alberton, South Africa  
-🎯 Growing into Cybersecurity & DevSecOps  
-💡 Passionate about secure systems, ethical tech, and user-first solutions
----
 ## 🤝 **Let’s Connect**
 
 - [LinkedIn](https://www.linkedin.com/in/lebini-jack)
-- [GitHub](https://github.com/binsta-jack)
+- [GitHub](https://github.com/binsta-jack)]
 - ✉️ lebini.jack@gmail.com
 
 **Always open to collaboration, mentorship, and opportunities to grow.**  
-**Let’s build something meaningful!** 🚀
+*Let’s connect and build something meaningful together! 🚀*
