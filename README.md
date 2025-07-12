@@ -2,11 +2,9 @@
 
 ## 🌍 **About Me**
 
-I am Lebini Jack, an **IT Support Technician** with 2+ years of experience in system deployment, user support, and building secure, cloud-based solutions. I love creating practical tools — from facial recognition apps to full-stack prototypes — that help people work smarter and safer.
+I am **Lebini Jack**, an **IT Support Technician** with 2+ years of experience in system deployment, user support, and building secure, cloud-based solutions. I love creating practical tools — from facial recognition apps to full-stack prototypes — that help people work smarter and safer.
 
 I’m passionate about solving real problems, learning every day, and growing into **Cybersecurity** and **DevSecOps** roles.  
-
-📍 Alberton, South Africa | 🎯 Growing into Cybersecurity & DevSecOps |💡 Passionate about secure systems, ethical tech, and user-first solutions
 ---
 
 ## 🏆 **Certifications**
