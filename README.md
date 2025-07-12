@@ -4,7 +4,6 @@
 
 I’m an **IT Support Technician** with 2+ years of experience in system deployment, user support, and building secure, cloud-based solutions. Backed by certifications from **IBM, Cisco, AWS, and Azure**, I’m passionate about cybersecurity, cloud, and full stack development.
 
-From secure facial recognition prototypes to practical CLI tools, I love solving real-world problems and helping teams work smarter. Let’s build something meaningful together!
 ---
 
 ## 🏆 **Certifications**
