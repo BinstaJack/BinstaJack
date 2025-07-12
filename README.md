@@ -1,9 +1,10 @@
-# 👋 Hello There 
+# 👋 Hello, I am **Lebini Jack**
 
 ## 🌍 **About Me**
 
-I am **Lebini Jack**, an **IT Support Technician** with 2+ years of experience in system deployment, user support, and building secure, cloud-based solutions. I love creating practical tools — from facial recognition apps to full-stack prototypes — that help people work smarter and safer.
+I’m an **IT Support Technician** with 2+ years of experience in system deployment, user support, and building secure, cloud-based solutions. Backed by certifications from **IBM, Cisco, AWS, and Azure**, I’m passionate about cybersecurity, cloud, and full stack development.
 
+From secure facial recognition prototypes to practical CLI tools, I love solving real-world problems and helping teams work smarter. Let’s build something meaningful together!
 ---
 
 ## 🏆 **Certifications**
@@ -30,10 +31,10 @@ I am **Lebini Jack**, an **IT Support Technician** with 2+ years of experience i
 - Python 🐍, Java ☕, PHP 🐘, Visual Basic ⚙️, HTML 📰, CSS 🎨, JavaScript ✨, SQL 🗄️, Git & GitHub 🗃️
 
 ### ⚙️ **Specialties**
-- Full Stack Development 🖥️ | IT Support 🛠️ | Networking 🌐 | Troubleshooting 🔍 | Cybersecurity Principles 🔒
+- Full Stack Development 🖥️  |  IT Support 🛠️  |  Networking 🌐  |  Troubleshooting 🔍  |  Cybersecurity Principles 🔒
 
 ### 🤝 **Soft Skills**
-- Communication 🗣️ | Teamwork 🤝 | Documentation 🗂️ | Continuous Learning 📚 | Problem Solving 💡
+- Communication 🗣️  |  Teamwork 🤝  |  Documentation 🗂️  |  Continuous Learning 📚  |  Problem Solving 💡
 ---
 
 ## 🤝 **Let’s Connect**
