@@ -21,7 +21,7 @@ I’m an **IT Support Technician** with 2+ years of experience in system deploym
 - 🔐 `MediFace Access` — secure biometric access solution *(Pending)*
 - 🗂️ `Survey Management System` — Django app for surveys *(Work in progress)*
 
-🔗 **See all repos:** [github.com/binsta-jack](https://github.com/binsta-jack)
+🔗 **See all repos:** [github.com/binstajack](https://github.com/binstajack)
 ---
 
 ## 🧩 **Core Skills**
